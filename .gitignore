@@ -1,0 +1,22 @@
+# Python
+.venv/
+Backend/.venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js
+Frontend/node_modules/
+Frontend/.next/
+Frontend/out/
+
+# Environment files
+.env
+Backend/.env
+Frontend/.env.local
+
+# Database / local files
+Backend/fundlens.db
+*.db
+
+# macOS
+.DS_Store
